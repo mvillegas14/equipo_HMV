@@ -1,0 +1,8 @@
+1.video
+2.formulario html y tambien mejorar botones
+3.conexion python
+4.ninebox
+
+Inquietudes para HMV
+-Opninion del diseño y el sistema de cascos y propuestas por parte de la empresa
+-Competencias del excel ( que cargos vamos a evaluar y que quisieran)
